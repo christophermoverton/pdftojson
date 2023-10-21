@@ -1,0 +1,177 @@
+{
+    "name": "Christopher Overton",
+    "contact": {
+        "location": "Overland Park,  United States",
+        "phone": "9134810582",
+        "email": "christophermoverton@gmail.com"
+    },
+    "links": [
+        "LINKS",
+        "linkedin",
+        "github",
+        "hackerrank"
+    ],
+    "skills": [
+        "SKILLS",
+        "Git",
+        "SQL",
+        "Python",
+        "Java",
+        "Scala",
+        "Swift",
+        "Xcode",
+        "Visual Studio Code"
+    ],
+    "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
+    "employment_history": [
+        {
+            "job_title": "Customer Service at Verizon Wireless",
+            "company_location": " Bellevue",
+            "employment_period": "August 2000 \u2014 January 2005",
+            "responsibilities": [
+                "\u2022Proficiently managed billing inquiries and addressed account-related issues with ",
+                "precision.",
+                "\u2022Provided expert guidance on product plans and offered top-tier support for ",
+                "wireless phone products.",
+                "\u2022Delivered technical expertise for wireless issues, ensuring swift and effective ",
+                "problem resolution."
+            ]
+        },
+        {
+            "job_title": "Software Developer at Harvest Moon Studios",
+            "company_location": " Los Angeles",
+            "employment_period": "July 2016 \u2014 February 2017",
+            "responsibilities": [
+                "\u2022Spearheaded the development of an iOS application for NOAA and the National ",
+                "Park Service, with dynamic animated screen transitions, captivating photo ",
+                "galleries, and seamless touch-supported scrollable interfaces.",
+                "\u2022Orchestrated and optimized an expansive image library, facilitating efficient batch ",
+                "page instancing across diverse hardware platforms.",
+                "\u2022Leveraged Swift in Xcode for the rapid and robust development of the iOS ",
+                "application.",
+                "\u2022Pioneered a cutting-edge .NET WPF application, empowering LA civic spaces ",
+                "with touch and multi-touch gesture capabilities, multifaceted page navigation, ",
+                "and visually engaging user interface manipulations, including custom slide tile ",
+                "animations.",
+                "\u2022Fostered collaborative synergy within development forums and GitHub for ",
+                "seamless project execution.",
+                "\u2022Transformed and transposed a Java-based graphics script into C# for enhanced ",
+                "performance and efficiency.",
+                "\u2022Engineered Python scripts to create a dynamic physics collision system for ",
+                "immersive animation rendering.",
+                "\u2022Innovatively sourced Heightmap data from public USGS and Open Source GIS ",
+                "software, utilizing native Python scripts for vivid terrain colorization and striking ",
+                "hillshading effects."
+            ]
+        },
+        {
+            "job_title": "Software Developer at SVP Consulting",
+            "company_location": " New Jersey",
+            "employment_period": "February 2018 \u2014 April 2018",
+            "responsibilities": [
+                "\u2022Engineered a high-performance Forex trading console application, merging Python ",
+                "and MQL4, harnessing the potential of a Forex API.",
+                "\u2022Spearheaded the integration of threaded asynchronous handling and event ",
+                "listeners, enabling automated trading with lightning speed.",
+                "\u2022Innovatively employed pipenv to manage Python modules within dynamic virtual ",
+                "environments, optimizing workflow efficiency.",
+                "\u2022Transformed raw JSON trade exchange data into powerful Pandas dataframe ",
+                "objects, propelling trade analysis and automation.",
+                "\u2022Pioneered data import and export functionalities for .txt-based files, streamlining ",
+                "data management.",
+                "\u2022Masterfully employed Git for version control, enhancing project management and ",
+                "collaboration.",
+                "\u2022Executed the entire project independently, from inception to completion, ",
+                "showcasing a strong foundation of skills.",
+                "\u2022Explore my portfolio on Upwork at ",
+                "https://www.upwork.com/freelancers/~016e516f5ff651848b?viewMode=1 ."
+            ]
+        },
+        {
+            "job_title": "Software Development Support at 3 Fuerzas Technology Solutions (EDZSystems), ",
+            "company_location": "Overland Park",
+            "employment_period": "January 2018 \u2014 March 2018",
+            "responsibilities": [
+                "\u2022Spearheaded critical iOS and Android application beta improvements, ensuring ",
+                "rapid deployment on the Google Play Store and Apple Store.",
+                "\u2022Revamped production-side code for native and third-party frameworks, ",
+                "guaranteeing polished and high-performance releases.",
+                "\u2022Led a comprehensive code updates, mastering data importation models and ",
+                "seamlessly implementing needed integration.",
+                "\u2022Utilized XCode and Android Studio, skillfully coding in Objective-C, Swift, Java, and ",
+                "REST for cross-platform excellence.",
+                "\u2022Operated seamlessly within MacOS and Windows environments, utilizing Atlassian ",
+                "Bitbucket and Git for streamlined version control.",
+                "\u2022Skillfully navigated complex Android and iOS applications, showcasing adaptability ",
+                "and expert problem-solving."
+            ]
+        },
+        {
+            "job_title": "Stay at Home Parent at Home",
+            "company_location": " Olathe",
+            "employment_period": "April 2018 \u2014 Present",
+            "responsibilities": [
+                "\u2022Nurtured my daughter's well-being from birth to age 4, serving as her primary ",
+                "caregiver.",
+                "\u2022Seized a precious opportunity to be actively present during her formative years ",
+                "before she embarked on her educational journey."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "course_degree": "Bachelors of Science Mathematics",
+            "university": " University of Kansas",
+            "date": null,
+            "links": null
+        },
+        {
+            "course_degree": "Basic Java Certification",
+            "university": " Hackerrank",
+            "date": "August 2023",
+            "links": "Certificate Link"
+        },
+        {
+            "course_degree": "Basic Python Certification",
+            "university": " Hackerrank",
+            "date": "August 2023",
+            "links": "Certificate Link"
+        },
+        {
+            "course_degree": "Introduction to Relational Databases(IBM)",
+            "university": " Coursera",
+            "date": "September 2023 \u2014 October 2023",
+            "links": "https://coursera.org/share/9f78c1fe77e0dcd3d66e3e2bb22db1e9"
+        },
+        {
+            "course_degree": "Python Project For Data Engineering (IBM)",
+            "university": " Coursera",
+            "date": "September 2023 \u2014 October 2023",
+            "links": "https://www.coursera.org/account/accomplishments/verify/LLY79EQJH8N4"
+        },
+        {
+            "course_degree": "Python For Data Science, AI, and Development (IBM)",
+            "university": " Coursera",
+            "date": "September 2023 \u2014 September 2023",
+            "links": "Certificate Link"
+        },
+        {
+            "course_degree": "Functional Programming Principles in Scala (EPFL) ",
+            "university": " Coursera",
+            "date": "September 2023 \u2014 October 2023",
+            "links": "Certificate Link"
+        },
+        {
+            "course_degree": "Introduction to Data Engineering (IBM)",
+            "university": " Coursera",
+            "date": "September 2023 \u2014 September 2023",
+            "links": "Certificate Link"
+        },
+        {
+            "course_degree": "Python Unit Tests to demonstrate TDD",
+            "university": " Coursera",
+            "date": "October 2023",
+            "links": null
+        }
+    ]
+}
