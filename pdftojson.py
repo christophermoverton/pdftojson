@@ -284,4 +284,4 @@ def save_to_json_file(pdf_path, output_path):
     with open(output_path, 'w') as json_file:
         json_file.write(json_data)
 
-save_to_json_file("C:\\Users\\chris\\OneDrive\\Documents\\pdftojson\\Coresume9.pdf","myresume.json")
+save_to_json_file("Your_path_to_pdf","myresume.json")
