@@ -158,8 +158,10 @@ def parse_resume2(resume_text):
 
         for index ,jtitle in enumerate(job_titles):
             ##lines = entry.strip().split('\n')
+            jtitle_company = jtitle.split("at")
             job_info = {
-                'job_title': jtitle,
+                'job_title': jtitle_company[0].strip(),
+                'company_name': jtitle_company[1].strip(),
                 'company_location': job_locs[index],
                 'employment_period': job_period[index],
                 'responsibilities': job_duties[index][0],
@@ -282,4 +284,4 @@ def save_to_json_file(pdf_path, output_path):
     with open(output_path, 'w') as json_file:
         json_file.write(json_data)
 
-save_to_json_file("C:\\Users\\chris\\OneDrive\\Documents\\pdftojson\\Coresume5.pdf","myresume.json")
+save_to_json_file("C:\\Users\\chris\\OneDrive\\Documents\\pdftojson\\Coresume9.pdf","myresume.json")

@@ -20,12 +20,17 @@
         "Scala",
         "Swift",
         "Xcode",
-        "Visual Studio Code"
+        "Visual Studio Code",
+        "CSS",
+        "Node.JS",
+        "Angular",
+        "TypeScript"
     ],
     "profile": "PROFILE\nAs a devoted Stay-at-Home Parent, I've excelled in multitasking. Accomplished in app \ndevelopment, scripting, touch UIs, and translation skills, I infuse every team with \nadaptability and precision.",
     "employment_history": [
         {
-            "job_title": "Customer Service at Verizon Wireless",
+            "job_title": "Customer Service",
+            "company_name": "Verizon Wireless",
             "company_location": " Bellevue",
             "employment_period": "August 2000 \u2014 January 2005",
             "responsibilities": [
@@ -38,7 +43,8 @@
             ]
         },
         {
-            "job_title": "Software Developer at Harvest Moon Studios",
+            "job_title": "Software Developer",
+            "company_name": "Harvest Moon Studios",
             "company_location": " Los Angeles",
             "employment_period": "July 2016 \u2014 February 2017",
             "responsibilities": [
@@ -65,7 +71,8 @@
             ]
         },
         {
-            "job_title": "Software Developer at SVP Consulting",
+            "job_title": "Software Developer",
+            "company_name": "SVP Consulting",
             "company_location": " New Jersey",
             "employment_period": "February 2018 \u2014 April 2018",
             "responsibilities": [
@@ -88,7 +95,8 @@
             ]
         },
         {
-            "job_title": "Software Development Support at 3 Fuerzas Technology Solutions (EDZSystems), ",
+            "job_title": "Software Development Support",
+            "company_name": "3 Fuerzas Technology Solutions (EDZSystems),",
             "company_location": "Overland Park",
             "employment_period": "January 2018 \u2014 March 2018",
             "responsibilities": [
@@ -107,7 +115,8 @@
             ]
         },
         {
-            "job_title": "Stay at Home Parent at Home",
+            "job_title": "Stay",
+            "company_name": "Home Parent",
             "company_location": " Olathe",
             "employment_period": "April 2018 \u2014 Present",
             "responsibilities": [
